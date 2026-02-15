@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 45px;
+    height: 40px;
+    font-size: 10px;
+    margin: 5px;
+}
+button:hover{
+    background-color: aquamarine;
+}
+input{
+    width: 90%;
+    height: 40px;
+
+}
+.Calculate{
+    background-color: aliceblue;
+    box-shadow: 10px 10px 15px burlywood;
+}
+.clear{
+    background-color: aqua;
+}
+.backspace{
+    background-color: crimson;
+}
